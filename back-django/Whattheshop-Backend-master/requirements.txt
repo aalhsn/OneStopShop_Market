@@ -4,5 +4,5 @@ djangorestframework==3.8.2
 djangorestframework-simplejwt==4.3.0
 Markdown==2.6.11
 Pillow==5.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pytz==2018.5
